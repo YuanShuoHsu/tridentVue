@@ -1,3 +1,7 @@
+https://codesandbox.io/p/github/YuanShuoHsu/tridentVue/master
+
+https://wg8m5r-5173.csb.app/
+
 # tridentVue
 
 This template should help get you started developing with Vue 3 in Vite.
